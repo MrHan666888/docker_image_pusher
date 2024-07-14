@@ -1,4 +1,4 @@
 xhofe/alist
-xiaoyaliu/alist
-emby/emby-server:latest
-jellyfin/jellyfin-server:latest
+ghcr.io/monlor/xiaoya-alist:latest
+ghcr.io/monlor/xiaoya-metadata:latest
+ghcr.io/monlor/xiaoya-embyserver:latest
