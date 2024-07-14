@@ -1,2 +1,4 @@
 xhofe/alist
 xiaoyaliu/alist
+emby/emby-server:latest
+jellyfin/jellyfin-server:latest
