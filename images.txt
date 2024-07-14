@@ -2,3 +2,6 @@ xhofe/alist
 ghcr.io/monlor/xiaoya-alist:latest
 ghcr.io/monlor/xiaoya-metadata:latest
 ghcr.io/monlor/xiaoya-embyserver:latest
+ghcr.io/open-webui/open-webui:main
+ollama/ollama
+mintplexlabs/anythingllm
