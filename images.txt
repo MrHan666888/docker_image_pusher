@@ -1,17 +1,1 @@
-xhofe/alist
-ghcr.io/monlor/xiaoya-alist:latest
-ghcr.io/monlor/xiaoya-metadata:latest
-ghcr.io/monlor/xiaoya-embyserver:latest
-ghcr.io/open-webui/open-webui:main
-ollama/ollama
-mintplexlabs/anythingllm
-lobehub/lobe-chat
-pgvector/pgvector:0.7.0-pg15
-mongo:5.0.18
-ghcr.io/labring/fastgpt-sandbox:v4.8.4
-mysql:8.0.36
-ghcr.io/songquanpeng/one-api:latest
-justsong/one-api
-ghcr.io/labring/fastgpt:v4.8.4
-registry.cn-hangzhou.aliyuncs.com/fastgpt_docker/m3e-large-api:latest
 mongo:4.4.29
