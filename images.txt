@@ -14,3 +14,4 @@ ghcr.io/songquanpeng/one-api:latest
 justsong/one-api
 ghcr.io/labring/fastgpt:v4.8.4
 registry.cn-hangzhou.aliyuncs.com/fastgpt_docker/m3e-large-api:latest
+mongo:4.4.29
